@@ -1,0 +1,35 @@
+Species,Common name,Non-fatal unprovoked,Fatal unprovoked,Total
+"Carcharhinus amblyrhynchos,",grey reef,7,1,8
+"Carcharhinus brachyurus,",bronze whaler,14,1,15
+"Carcharhinus brevipinna,",spinner,16,0,16
+"Carcharhinus falciformis,",silky,3,0,3
+"Carcharhinus galapagensis,",Galapagos,0,1,1
+"Carcharhinus leucas,",bull,73,27,100
+"Carcharhinus limbatus,",blacktip,28,1,29
+"Carcharhinus longimanus,",oceanic whitetip,7,3,10
+"Carcharhinus melanopterus,",blacktip reef,11,0,11
+"Carcharhinus obscurus,",dusky,1,1,2
+"Carcharhinus perezi,",Caribbean reef,4,0,4
+"Carcharhinus plumbeus,",sandbar,5,0,5
+"Carcharhinus spp.,",requiem,44,7,51
+"Carcharias taurus,",sand tiger,29,0,29
+"Carcharias spp.,",lamniform,0,2,2
+"Carcharodon carcharias,",white,234,80,314
+"Galeocerdo cuvier,",tiger,80,31,111
+Galeorhinus galeus,tope,1,0,1
+"Ginglymostoma cirratum,",nurse,10,0,10
+"Heterodontis portusjacksoni,",port jackson,1,0,1
+"Isistius brasiliensis,",cookiecutter,1,0,1
+"Isurus oxyrinchus,",shortfin mako,9,1,10
+"Isurus spp.,",mako,8,0,8
+"Lamna nasus,",porbeagle,2,0,2
+"Negaprion brevirostris,",lemon,10,0,10
+"Notorhynchus cepedianus,",sevengill,5,0,5
+"Orectolobus macalatus,",spotted wobbegong,4,0,4
+"Orectolobus spp.,",wobbegong,28,0,28
+Prionace glauca,blue,9,4,13
+"Rhinobatos spp.,",guitarfish,1,0,1
+"Sphyrna spp.,",hammerhead,17,0,17
+"Triaenodon obesus,",whitetip reef,5,0,5
+"Triakis semifasciata,",leopard,1,0,1
+ TOTALS,34+ species,668,160,828
