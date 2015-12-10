@@ -7,10 +7,10 @@ class Shark(models.Model):
     nonfatal=models.IntegerField()
     fatal=models.IntegerField()
     total=models.IntegerField()
-    photo=models.FileField(blank=True, null=True)
+    photo=models.FileField(upload_to="photos/", blank=True, null=True)
     description = models.TextField(blank=True, null=True)
     def get_absolute_url(self):
-        return "reports/%s" % self.name_slug
+        return "sharks/%s" % self.name_slug
     def __unicode__(self):
     	return self.name
 
